@@ -1,0 +1,29 @@
+* {
+  background-color: gainsboro;
+
+.main { 
+  text-align: center;
+  margin-top: 13%;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.main h1 {
+  color:rgb(34, 34, 34);
+  font-size: 400%;
+}
+
+
+.h2h3 {
+  margin: 3% 0% 0% 35%;
+  text-align: left;
+}
+
+.h2h3 h2 {
+  color: cadetblue;
+  font-size: 300%;
+
+}
+
+.h2h3 h3 {
+  font-size: 150%;
+}
+
